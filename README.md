@@ -1,5 +1,5 @@
 ## Hi there 👋
-h1 align="center">Hi, I'm Omkar Madipalli 👋</h1>
+Hi, I'm Omkar Madipalli 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Raw Data into Actionable Insights</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/omkar-madipalli-a8ba031b3" target="_blank">
